@@ -29,11 +29,10 @@ graph TD;
 
 ---
 
-## 🎥 Demo Video
-<video width="800" controls>
-  <source src="assets/videos/Demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+## 🎥 Demo 
+![{BA142CC9-F323-4E2A-9DF1-4632E12E7A1F}](https://github.com/user-attachments/assets/b48c40b2-5a16-4baf-9b3e-19b16de7a833)
+
+
 
 
 ---
