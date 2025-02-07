@@ -41,7 +41,7 @@ graph TD;
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/traffic-analysis.git
+git clone https://github.com/rajivy1012/traffic-analysis.git
 cd traffic-analysis
 ```
 
