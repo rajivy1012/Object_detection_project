@@ -1,0 +1,348 @@
+Frame,Object ID,Class,Traffic Status,Movement Direction,Entry/Exit Status
+3,1,Vehicle,Light Traffic,Right,In Zone
+3,2,Vehicle,Light Traffic,Right,In Zone
+4,1,Vehicle,Light Traffic,Right,In Zone
+4,2,Vehicle,Light Traffic,Left,In Zone
+5,1,Vehicle,Light Traffic,Right,In Zone
+5,2,Vehicle,Light Traffic,Left,In Zone
+6,1,Vehicle,Light Traffic,Right,In Zone
+6,2,Vehicle,Light Traffic,Left,In Zone
+7,1,Vehicle,Light Traffic,Left,In Zone
+7,2,Vehicle,Light Traffic,Left,In Zone
+8,1,Vehicle,Light Traffic,Right,In Zone
+8,2,Vehicle,Light Traffic,Left,In Zone
+9,1,Vehicle,Light Traffic,Left,In Zone
+9,2,Vehicle,Light Traffic,Left,In Zone
+10,1,Vehicle,Light Traffic,Right,In Zone
+10,2,Vehicle,Light Traffic,Left,In Zone
+10,3,Vehicle,Light Traffic,Right,In Zone
+11,1,Vehicle,Light Traffic,Right,In Zone
+11,2,Vehicle,Light Traffic,Left,In Zone
+11,3,Vehicle,Light Traffic,Left,In Zone
+12,1,Vehicle,Light Traffic,Left,In Zone
+12,2,Vehicle,Light Traffic,Left,In Zone
+12,3,Vehicle,Light Traffic,Left,In Zone
+13,1,Vehicle,Light Traffic,Right,In Zone
+13,2,Vehicle,Light Traffic,Left,In Zone
+13,3,Vehicle,Light Traffic,Left,In Zone
+14,1,Vehicle,Light Traffic,Right,In Zone
+14,2,Vehicle,Light Traffic,Left,In Zone
+14,3,Vehicle,Light Traffic,Left,In Zone
+15,1,Vehicle,Light Traffic,Right,In Zone
+15,2,Vehicle,Light Traffic,Left,In Zone
+15,3,Vehicle,Light Traffic,Left,In Zone
+16,1,Vehicle,Light Traffic,Right,In Zone
+16,2,Vehicle,Light Traffic,Right,In Zone
+16,3,Vehicle,Light Traffic,Left,In Zone
+17,1,Vehicle,Light Traffic,Left,In Zone
+17,2,Vehicle,Light Traffic,Left,In Zone
+17,3,Vehicle,Light Traffic,Left,In Zone
+18,1,Vehicle,Light Traffic,Right,In Zone
+18,2,Vehicle,Light Traffic,Left,In Zone
+18,3,Vehicle,Light Traffic,Left,In Zone
+19,1,Vehicle,Light Traffic,Right,In Zone
+19,2,Vehicle,Light Traffic,Left,In Zone
+19,3,Vehicle,Light Traffic,Left,In Zone
+20,1,Vehicle,Light Traffic,Left,In Zone
+20,2,Vehicle,Light Traffic,Left,In Zone
+20,3,Vehicle,Light Traffic,Left,In Zone
+21,1,Vehicle,Light Traffic,Right,In Zone
+21,2,Vehicle,Light Traffic,Left,In Zone
+21,3,Vehicle,Light Traffic,Left,In Zone
+21,4,Vehicle,Light Traffic,Right,In Zone
+22,1,Vehicle,Light Traffic,Right,In Zone
+22,2,Vehicle,Light Traffic,Left,In Zone
+22,3,Vehicle,Light Traffic,Left,In Zone
+22,4,Vehicle,Light Traffic,Left,In Zone
+23,1,Vehicle,Light Traffic,Right,In Zone
+23,2,Vehicle,Light Traffic,Left,In Zone
+23,3,Vehicle,Light Traffic,Left,In Zone
+23,4,Vehicle,Light Traffic,Right,In Zone
+24,1,Vehicle,Light Traffic,Left,In Zone
+24,2,Vehicle,Light Traffic,Right,In Zone
+24,3,Vehicle,Light Traffic,Left,In Zone
+24,4,Vehicle,Light Traffic,Left,In Zone
+25,1,Vehicle,Light Traffic,Right,In Zone
+25,2,Vehicle,Light Traffic,Left,In Zone
+25,3,Vehicle,Light Traffic,Left,In Zone
+25,4,Vehicle,Light Traffic,Left,In Zone
+26,1,Vehicle,Light Traffic,Right,In Zone
+26,2,Vehicle,Light Traffic,Left,In Zone
+26,3,Vehicle,Light Traffic,Left,In Zone
+26,4,Vehicle,Light Traffic,Right,In Zone
+27,1,Vehicle,Light Traffic,Right,In Zone
+27,2,Vehicle,Light Traffic,Left,In Zone
+27,3,Vehicle,Light Traffic,Left,In Zone
+27,4,Vehicle,Light Traffic,Right,In Zone
+28,1,Vehicle,Light Traffic,Right,In Zone
+28,2,Vehicle,Light Traffic,Left,In Zone
+28,3,Vehicle,Light Traffic,Left,In Zone
+28,4,Vehicle,Light Traffic,Right,In Zone
+29,1,Vehicle,Light Traffic,Right,In Zone
+29,2,Vehicle,Light Traffic,Left,In Zone
+29,3,Vehicle,Light Traffic,Left,In Zone
+29,4,Vehicle,Light Traffic,Left,In Zone
+30,1,Vehicle,Light Traffic,Right,In Zone
+30,2,Vehicle,Light Traffic,Left,In Zone
+30,3,Vehicle,Light Traffic,Left,In Zone
+30,4,Vehicle,Light Traffic,Left,In Zone
+31,1,Vehicle,Light Traffic,Right,In Zone
+31,2,Vehicle,Light Traffic,Left,In Zone
+31,3,Vehicle,Light Traffic,Left,In Zone
+31,4,Vehicle,Light Traffic,Right,In Zone
+32,1,Vehicle,Light Traffic,Right,In Zone
+32,2,Vehicle,Light Traffic,Left,In Zone
+32,3,Vehicle,Light Traffic,Left,In Zone
+32,4,Vehicle,Light Traffic,Left,In Zone
+33,1,Vehicle,Light Traffic,Left,In Zone
+33,2,Vehicle,Light Traffic,Left,In Zone
+33,3,Vehicle,Light Traffic,Left,In Zone
+33,4,Vehicle,Light Traffic,Left,In Zone
+34,1,Vehicle,Light Traffic,Right,In Zone
+34,2,Vehicle,Light Traffic,Left,In Zone
+34,3,Vehicle,Light Traffic,Left,In Zone
+34,4,Vehicle,Light Traffic,Left,In Zone
+34,6,Vehicle,Light Traffic,Right,In Zone
+35,1,Vehicle,Light Traffic,Left,In Zone
+35,2,Vehicle,Light Traffic,Left,In Zone
+35,3,Vehicle,Light Traffic,Left,In Zone
+35,4,Vehicle,Light Traffic,Right,In Zone
+35,6,Vehicle,Light Traffic,Right,In Zone
+36,1,Vehicle,Light Traffic,Right,In Zone
+36,2,Vehicle,Light Traffic,Left,Entered
+36,3,Vehicle,Light Traffic,Left,In Zone
+36,4,Vehicle,Light Traffic,Left,In Zone
+36,6,Vehicle,Light Traffic,Right,In Zone
+37,1,Vehicle,Light Traffic,Right,In Zone
+37,2,Vehicle,Light Traffic,Left,Entered
+37,3,Vehicle,Light Traffic,Left,In Zone
+37,4,Vehicle,Light Traffic,Left,In Zone
+37,6,Vehicle,Light Traffic,Right,In Zone
+38,1,Vehicle,Light Traffic,Right,In Zone
+38,2,Vehicle,Light Traffic,Left,Entered
+38,3,Vehicle,Light Traffic,Left,In Zone
+38,4,Vehicle,Light Traffic,Left,In Zone
+38,6,Vehicle,Light Traffic,Left,In Zone
+39,1,Vehicle,Light Traffic,Left,In Zone
+39,2,Vehicle,Light Traffic,Left,Entered
+39,3,Vehicle,Light Traffic,Left,In Zone
+39,4,Vehicle,Light Traffic,Left,In Zone
+39,6,Vehicle,Light Traffic,Right,In Zone
+40,1,Vehicle,Light Traffic,Left,In Zone
+40,2,Vehicle,Light Traffic,Left,Entered
+40,3,Vehicle,Light Traffic,Left,In Zone
+40,4,Vehicle,Light Traffic,Left,In Zone
+40,6,Vehicle,Light Traffic,Right,In Zone
+41,1,Vehicle,Light Traffic,Right,In Zone
+41,2,Vehicle,Light Traffic,Left,Entered
+41,3,Vehicle,Light Traffic,Left,In Zone
+41,4,Vehicle,Light Traffic,Right,In Zone
+41,6,Vehicle,Light Traffic,Right,In Zone
+42,1,Vehicle,Moderate Traffic,Right,In Zone
+42,2,Vehicle,Moderate Traffic,Left,Entered
+42,3,Vehicle,Moderate Traffic,Left,In Zone
+42,4,Vehicle,Moderate Traffic,Left,In Zone
+42,6,Vehicle,Moderate Traffic,Right,In Zone
+43,1,Vehicle,Moderate Traffic,Right,In Zone
+43,2,Vehicle,Moderate Traffic,Left,Entered
+43,3,Vehicle,Moderate Traffic,Left,In Zone
+43,4,Vehicle,Moderate Traffic,Left,In Zone
+43,6,Vehicle,Moderate Traffic,Right,In Zone
+44,1,Vehicle,Moderate Traffic,Right,In Zone
+44,2,Vehicle,Moderate Traffic,Left,Entered
+44,3,Vehicle,Moderate Traffic,Left,In Zone
+44,4,Vehicle,Moderate Traffic,Left,In Zone
+44,6,Vehicle,Moderate Traffic,Left,In Zone
+44,7,Vehicle,Moderate Traffic,Right,In Zone
+45,1,Vehicle,Moderate Traffic,Right,In Zone
+45,2,Vehicle,Moderate Traffic,Left,Entered
+45,3,Vehicle,Moderate Traffic,Left,In Zone
+45,4,Vehicle,Moderate Traffic,Left,In Zone
+45,6,Vehicle,Moderate Traffic,Right,In Zone
+45,7,Vehicle,Moderate Traffic,Left,In Zone
+46,1,Vehicle,Moderate Traffic,Right,In Zone
+46,2,Vehicle,Moderate Traffic,Left,Entered
+46,3,Vehicle,Moderate Traffic,Left,In Zone
+46,4,Vehicle,Moderate Traffic,Left,In Zone
+46,6,Vehicle,Moderate Traffic,Right,In Zone
+46,7,Vehicle,Moderate Traffic,Left,In Zone
+47,1,Vehicle,Moderate Traffic,Left,In Zone
+47,2,Vehicle,Moderate Traffic,Left,Entered
+47,3,Vehicle,Moderate Traffic,Left,In Zone
+47,4,Vehicle,Moderate Traffic,Left,In Zone
+47,6,Vehicle,Moderate Traffic,Right,In Zone
+47,7,Vehicle,Moderate Traffic,Left,In Zone
+48,1,Vehicle,Moderate Traffic,Right,In Zone
+48,2,Vehicle,Moderate Traffic,Left,Entered
+48,3,Vehicle,Moderate Traffic,Left,In Zone
+48,4,Vehicle,Moderate Traffic,Right,In Zone
+48,6,Vehicle,Moderate Traffic,Right,In Zone
+48,7,Vehicle,Moderate Traffic,Left,In Zone
+49,1,Vehicle,Moderate Traffic,Right,In Zone
+49,2,Vehicle,Moderate Traffic,Left,Entered
+49,3,Vehicle,Moderate Traffic,Left,In Zone
+49,4,Vehicle,Moderate Traffic,Left,In Zone
+49,6,Vehicle,Moderate Traffic,Right,In Zone
+49,7,Vehicle,Moderate Traffic,Left,In Zone
+50,1,Vehicle,Moderate Traffic,Right,In Zone
+50,2,Vehicle,Moderate Traffic,Left,Entered
+50,3,Vehicle,Moderate Traffic,Left,In Zone
+50,4,Vehicle,Moderate Traffic,Right,In Zone
+50,6,Vehicle,Moderate Traffic,Right,In Zone
+50,7,Vehicle,Moderate Traffic,Left,Entered
+51,1,Vehicle,Moderate Traffic,Right,In Zone
+51,2,Vehicle,Moderate Traffic,Left,Entered
+51,3,Vehicle,Moderate Traffic,Left,In Zone
+51,4,Vehicle,Moderate Traffic,Left,In Zone
+51,6,Vehicle,Moderate Traffic,Right,In Zone
+51,7,Vehicle,Moderate Traffic,Left,Entered
+52,1,Vehicle,Moderate Traffic,Right,In Zone
+52,2,Vehicle,Moderate Traffic,Left,Entered
+52,3,Vehicle,Moderate Traffic,Left,In Zone
+52,4,Vehicle,Moderate Traffic,Left,In Zone
+52,6,Vehicle,Moderate Traffic,Left,In Zone
+52,7,Vehicle,Moderate Traffic,Left,Entered
+53,1,Vehicle,Moderate Traffic,Right,In Zone
+53,2,Vehicle,Moderate Traffic,Left,Entered
+53,3,Vehicle,Moderate Traffic,Left,In Zone
+53,4,Vehicle,Moderate Traffic,Left,In Zone
+53,6,Vehicle,Moderate Traffic,Right,In Zone
+53,7,Vehicle,Moderate Traffic,Left,Entered
+54,1,Vehicle,Moderate Traffic,Right,In Zone
+54,2,Vehicle,Moderate Traffic,Left,Entered
+54,3,Vehicle,Moderate Traffic,Left,In Zone
+54,4,Vehicle,Moderate Traffic,Left,In Zone
+54,6,Vehicle,Moderate Traffic,Right,In Zone
+54,7,Vehicle,Moderate Traffic,Left,Entered
+55,1,Vehicle,Moderate Traffic,Left,In Zone
+55,2,Vehicle,Moderate Traffic,Left,Entered
+55,3,Vehicle,Moderate Traffic,Left,In Zone
+55,4,Vehicle,Moderate Traffic,Left,In Zone
+55,6,Vehicle,Moderate Traffic,Left,In Zone
+55,7,Vehicle,Moderate Traffic,Left,Entered
+56,1,Vehicle,Moderate Traffic,Right,In Zone
+56,2,Vehicle,Moderate Traffic,Left,Entered
+56,3,Vehicle,Moderate Traffic,Left,In Zone
+56,4,Vehicle,Moderate Traffic,Left,In Zone
+56,6,Vehicle,Moderate Traffic,Right,In Zone
+56,7,Vehicle,Moderate Traffic,Left,Entered
+57,1,Vehicle,Moderate Traffic,Right,In Zone
+57,2,Vehicle,Moderate Traffic,Left,Entered
+57,3,Vehicle,Moderate Traffic,Left,In Zone
+57,4,Vehicle,Moderate Traffic,Left,In Zone
+57,6,Vehicle,Moderate Traffic,Right,In Zone
+57,7,Vehicle,Moderate Traffic,Left,Entered
+58,1,Vehicle,Moderate Traffic,Right,In Zone
+58,2,Vehicle,Moderate Traffic,Left,Entered
+58,3,Vehicle,Moderate Traffic,Left,In Zone
+58,4,Vehicle,Moderate Traffic,Left,In Zone
+58,6,Vehicle,Moderate Traffic,Left,In Zone
+58,7,Vehicle,Moderate Traffic,Left,Entered
+59,1,Vehicle,Moderate Traffic,Right,In Zone
+59,2,Vehicle,Moderate Traffic,Left,Entered
+59,3,Vehicle,Moderate Traffic,Left,In Zone
+59,4,Vehicle,Moderate Traffic,Left,In Zone
+59,6,Vehicle,Moderate Traffic,Right,In Zone
+59,7,Vehicle,Moderate Traffic,Left,Entered
+60,1,Vehicle,Moderate Traffic,Right,In Zone
+60,2,Vehicle,Moderate Traffic,Left,Entered
+60,3,Vehicle,Moderate Traffic,Left,In Zone
+60,4,Vehicle,Moderate Traffic,Left,In Zone
+60,6,Vehicle,Moderate Traffic,Right,In Zone
+60,7,Vehicle,Moderate Traffic,Left,Entered
+61,1,Vehicle,Moderate Traffic,Right,In Zone
+61,2,Vehicle,Moderate Traffic,Left,Entered
+61,3,Vehicle,Moderate Traffic,Left,In Zone
+61,4,Vehicle,Moderate Traffic,Right,In Zone
+61,6,Vehicle,Moderate Traffic,Right,In Zone
+61,7,Vehicle,Moderate Traffic,Left,Entered
+62,1,Vehicle,Moderate Traffic,Right,In Zone
+62,2,Vehicle,Moderate Traffic,Left,Entered
+62,3,Vehicle,Moderate Traffic,Left,In Zone
+62,4,Vehicle,Moderate Traffic,Left,In Zone
+62,6,Vehicle,Moderate Traffic,Right,In Zone
+62,7,Vehicle,Moderate Traffic,Left,Entered
+63,1,Vehicle,Moderate Traffic,Right,In Zone
+63,2,Vehicle,Moderate Traffic,Left,Entered
+63,3,Vehicle,Moderate Traffic,Left,In Zone
+63,4,Vehicle,Moderate Traffic,Left,In Zone
+63,6,Vehicle,Moderate Traffic,Right,In Zone
+63,7,Vehicle,Moderate Traffic,Left,Entered
+64,1,Vehicle,Moderate Traffic,Left,In Zone
+64,2,Vehicle,Moderate Traffic,Left,Entered
+64,3,Vehicle,Moderate Traffic,Left,In Zone
+64,4,Vehicle,Moderate Traffic,Left,In Zone
+64,6,Vehicle,Moderate Traffic,Right,In Zone
+64,7,Vehicle,Moderate Traffic,Left,Entered
+65,1,Vehicle,Moderate Traffic,Right,In Zone
+65,2,Vehicle,Moderate Traffic,Left,Entered
+65,3,Vehicle,Moderate Traffic,Left,In Zone
+65,4,Vehicle,Moderate Traffic,Left,In Zone
+65,6,Vehicle,Moderate Traffic,Right,In Zone
+65,7,Vehicle,Moderate Traffic,Left,Entered
+66,1,Vehicle,Moderate Traffic,Right,In Zone
+66,2,Vehicle,Moderate Traffic,Left,Entered
+66,3,Vehicle,Moderate Traffic,Left,In Zone
+66,4,Vehicle,Moderate Traffic,Left,In Zone
+66,6,Vehicle,Moderate Traffic,Right,In Zone
+66,7,Vehicle,Moderate Traffic,Left,Entered
+67,1,Vehicle,Moderate Traffic,Left,In Zone
+67,2,Vehicle,Moderate Traffic,Left,Entered
+67,3,Vehicle,Moderate Traffic,Left,In Zone
+67,4,Vehicle,Moderate Traffic,Left,In Zone
+67,6,Vehicle,Moderate Traffic,Left,In Zone
+67,7,Vehicle,Moderate Traffic,Left,Entered
+68,1,Vehicle,Moderate Traffic,Right,In Zone
+68,2,Vehicle,Moderate Traffic,Left,Entered
+68,3,Vehicle,Moderate Traffic,Left,In Zone
+68,4,Vehicle,Moderate Traffic,Left,In Zone
+68,6,Vehicle,Moderate Traffic,Right,In Zone
+68,7,Vehicle,Moderate Traffic,Left,Entered
+69,1,Vehicle,Moderate Traffic,Right,In Zone
+69,2,Vehicle,Moderate Traffic,Left,Entered
+69,3,Vehicle,Moderate Traffic,Left,In Zone
+69,4,Vehicle,Moderate Traffic,Right,In Zone
+69,6,Vehicle,Moderate Traffic,Right,In Zone
+69,7,Vehicle,Moderate Traffic,Left,Entered
+70,1,Vehicle,Moderate Traffic,Right,In Zone
+70,2,Vehicle,Moderate Traffic,Left,Entered
+70,3,Vehicle,Moderate Traffic,Left,In Zone
+70,4,Vehicle,Moderate Traffic,Left,In Zone
+70,6,Vehicle,Moderate Traffic,Right,In Zone
+70,7,Vehicle,Moderate Traffic,Left,Entered
+71,1,Vehicle,Moderate Traffic,Right,In Zone
+71,2,Vehicle,Moderate Traffic,Left,Entered
+71,3,Vehicle,Moderate Traffic,Right,In Zone
+71,4,Vehicle,Moderate Traffic,Left,In Zone
+71,6,Vehicle,Moderate Traffic,Right,In Zone
+71,7,Vehicle,Moderate Traffic,Left,Entered
+72,1,Vehicle,Moderate Traffic,Right,In Zone
+72,2,Vehicle,Moderate Traffic,Left,Entered
+72,3,Vehicle,Moderate Traffic,Left,In Zone
+72,4,Vehicle,Moderate Traffic,Left,In Zone
+72,6,Vehicle,Moderate Traffic,Left,In Zone
+72,7,Vehicle,Moderate Traffic,Left,Entered
+73,1,Vehicle,Moderate Traffic,Right,In Zone
+73,2,Vehicle,Moderate Traffic,Left,Entered
+73,3,Vehicle,Moderate Traffic,Left,In Zone
+73,4,Vehicle,Moderate Traffic,Left,In Zone
+73,6,Vehicle,Moderate Traffic,Right,In Zone
+73,7,Vehicle,Moderate Traffic,Left,Entered
+74,1,Vehicle,Moderate Traffic,Right,In Zone
+74,2,Vehicle,Moderate Traffic,Left,Entered
+74,3,Vehicle,Moderate Traffic,Left,In Zone
+74,4,Vehicle,Moderate Traffic,Left,In Zone
+74,6,Vehicle,Moderate Traffic,Left,In Zone
+74,7,Vehicle,Moderate Traffic,Left,Entered
+75,1,Vehicle,Moderate Traffic,Right,In Zone
+75,2,Vehicle,Moderate Traffic,Left,Entered
+75,3,Vehicle,Moderate Traffic,Left,In Zone
+75,4,Vehicle,Moderate Traffic,Left,In Zone
+75,6,Vehicle,Moderate Traffic,Right,In Zone
+75,7,Vehicle,Moderate Traffic,Left,Entered
+76,1,Vehicle,Moderate Traffic,Right,In Zone
+76,2,Vehicle,Moderate Traffic,Left,Entered
+76,3,Vehicle,Moderate Traffic,Left,In Zone
+76,4,Vehicle,Moderate Traffic,Left,In Zone
+76,6,Vehicle,Moderate Traffic,Right,In Zone
+76,7,Vehicle,Moderate Traffic,Left,Entered

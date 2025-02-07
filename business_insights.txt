@@ -1,0 +1,17 @@
+Traffic Analysis Report
+----------------------------
+Total Frames Processed: 76
+Final Traffic Status: Moderate Traffic
+Heavy Traffic Threshold: 10 vehicles
+Moderate Traffic Threshold: 5 vehicles
+
+Movement Trends:
+Object 1 final position: (1033, 392)
+Object 2 final position: (596, 643)
+Object 3 final position: (1118, 490)
+Object 4 final position: (834, 451)
+Object 6 final position: (1060, 389)
+Object 7 final position: (732, 517)
+
+Recommendations:
+Monitor traffic flow and consider signal adjustments if congestion increases.
