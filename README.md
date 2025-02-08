@@ -78,7 +78,7 @@ python real_time_traffic_analysis.py
 ---
 
 ## 🤝 Contributors
-👤 **Your Name** – Rajiv Yadav  
+👤  Rajiv Yadav  
 📧 Contact: [rajivy1012@gmail.com](mailto:your.email@example.com)  
 
 ---
