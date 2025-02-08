@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Traffic Analysis Script
 ```bash
-python traffic_analysis.py
+python real_time_traffic_analysis.py
 ```
 
 ---
